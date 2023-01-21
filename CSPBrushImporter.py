@@ -1,11 +1,12 @@
 bl_info = {
     "name": "CSP Brush Importer",
     "author": "Aecef",
+    "blender": (2, 80, 0),
     "version": (0, 5),
     "location": "View3D > Properties Panel > Texture > CSP Brush Import Panel",
     "description": "Imports A .SUT Brush As A Texture Paint Brush ",
     "warning": "Generates the image for the texture, but there are problems reading the PNG file. Currently fixed by resaving the png on the computer then reloading the image in the texture panel",
-    "doc_url": "",
+    "doc_url": "https://github.com/Aecef/Blender-CSPBrushImporter",
     "category": "3D View"
 }
 

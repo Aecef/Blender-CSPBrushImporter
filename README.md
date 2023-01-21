@@ -1,6 +1,11 @@
 # Blender-CSPBrushImporter
 Blender Plugin that imports SUT brushes to blender as a texture brush
 
+## Install
+
+#### 1. Extract `CSPBrushImporter.py`
+#### 2. In Blender: `Edit > Prefrences > Add-ons > Install`
+
 ## How to Use
 
 #### The Addon will appear in the texture panel as "CSP Brush Import Panel"
